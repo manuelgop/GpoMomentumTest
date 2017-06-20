@@ -15,6 +15,11 @@ var gems = [
     images: [{
         full: 'salaGrande.jpg'
     }],
+    reviews: [{
+        stars: 5,
+        body: "Gran sala, muy util",
+        autor: "Manuel Gopar",
+    }],
 },
 {
     name: "Sala de Juntas mediana",
@@ -23,6 +28,11 @@ var gems = [
     canPurchase: true,
     images: [{
         full: "salaChica.jpg"
+    }],
+    reviews: [{
+        stars: 5,
+        body: "Me gusto mucho la sala, ideal para 6 personas",
+        autor: "Juan Perez",
     }],
 }
 ];
